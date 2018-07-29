@@ -1,0 +1,98 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\le\TCPsocketApp.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\be\TCPsocketApp.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\TCPsocketApp.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\TCPsocketApp.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\le\TCPsocketApp.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\be\TCPsocketApp.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\be\TCPsocketApp.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\be\TCPsocketApp.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\le\TCPsocketApp.pe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\le\TCPsocketApp.pdbx
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\TCPsocketApp.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\TCPsocketApp\obj\Debug\TCPsocketApp.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\le\TCPsocketApp.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\be\TCPsocketApp.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\TCPsocketApp.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\TCPsocketApp.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\le\TCPsocketApp.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\be\TCPsocketApp.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\obj\Debug\TCPsocketApp.exe
+C:\Users\Michael\documents\visual studio 2010\Projects\TCPsocketApp\TCPsocketApp\obj\Debug\TCPsocketApp.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\le\TCPsocketApp.exe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\be\TCPsocketApp.exe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\TCPsocketApp.exe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\TCPsocketApp.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\le\TCPsocketApp.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\le\TCPsocketApp.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\be\TCPsocketApp.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\be\TCPsocketApp.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\be\TCPsocketApp.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\be\TCPsocketApp.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\le\TCPsocketApp.pe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\le\TCPsocketApp.pdbx
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\TCPsocketApp.exe
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\TCPsocketApp.pdb
+C:\Users\dears\Desktop\NetduinoSockets-master\NetduinoSockets-master\TCPsocketApp\obj\Debug\TCPsocketApp.csprojResolveAssemblyReference.cache
